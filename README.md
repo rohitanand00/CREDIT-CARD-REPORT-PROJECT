@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Power_BI-Report-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+
 # Power BI Credit Card Transactions Analysis Project
 
 This repository contains the detailed steps and analysis of a Power BI project focused on credit card transaction data and customer demographics. The project leverages MySQL for data management and Power BI for data analysis and visualization, providing valuable insights into various trends, performance metrics, and key business drivers.
